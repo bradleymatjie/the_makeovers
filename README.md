@@ -1,5 +1,5 @@
 # The Makeovers
-[DEMO LINK](https://bradleymatjie.github.io/makeovers/)
+[DEMO LINK](https://bradleymatjie.github.io/the_makeovers/)
 
 ## Technologies
 Project is created with:
